@@ -1,5 +1,7 @@
 JumpBack Button ===============
+
 August 21, 2014
+
 Extension Created by Brian Slakter and Andrew Packer
 
 This extension allows a user to navigate back in their browser history,
