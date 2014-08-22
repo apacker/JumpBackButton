@@ -4,9 +4,9 @@
   "name": "JumpBack Button",
   "short_name": "JumpBack",
   
-  "description": "This extension allows a user to navigate back in their browser history, skipping over all pages that share the same URL root.",
+  "description": "Navigate back in browser history, skipping over pages with a URL that match the current page URL up to its final directory.",
   
-  "version": "1.0",
+  "version": "2.0",
 
   "permissions": [
     "history",
