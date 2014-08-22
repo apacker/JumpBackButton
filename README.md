@@ -5,8 +5,7 @@ August 21, 2014
 Extension Created by Brian Slakter and Andrew Packer
 
 Link to Extension in Chrome Store:
-https://chrome.google.com/webstore/detail/jumpback-button/
-diikgjokohdfgpcbgpnebjknpfoadfda?hl=en&gl=US&authuser=0
+https://chrome.google.com/webstore/detail/jumpback-button/diikgjokohdfgpcbgpnebjknpfoadfda?hl=en&gl=US&authuser=0
 
 This extension allows a user to navigate back in their browser history,
 skipping over pages with a URL that match the current page URL up to its
