@@ -11,4 +11,4 @@ This extension allows a user to navigate back in their browser history,
 skipping over pages with a URL that match the current page URL up to its
 final directory. As an example, the JumpBack Button can be used to
 return to a Yelp search after navigating through photos of a restaurant.
- Also useful for websites that contain articles told in slideshow format.
+ Also useful for websites that contain articles in slideshow format.
