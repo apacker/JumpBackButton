@@ -1,8 +1,6 @@
 JumpBack Button
 
-August 21, 2014
-
-Extension Created by Brian Slakter and Andrew Packer
+Chrome Extension Created by Brian Slakter and Andrew Packer
 
 Link to Extension in Chrome Store:
 
